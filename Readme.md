@@ -1,6 +1,9 @@
 # Courtroom Clash ⚖️
 A Streamlit application that simulates a legal debate between two AI lawyers: a fact-based lawyer using Retrieval-Augmented Generation (RAG) and a creative, "chaos" lawyer. This project is a fun way to demonstrate the power of prompt engineering and RAG.
 
+## Video Demo 📹
+[Link to the video](https://drive.google.com/file/d/1i-J3xaGmnlUHbizPfl6kh61x3YPGdsB4/view?usp=sharing)
+
 ## Features ✨
 - **RAG Lawyer:** Uses a small, internal legal database to find and cite precedents for its arguments, demonstrating fact-grounded AI.
 - **Chaos Lawyer:** Generates absurd and nonsensical arguments, ignoring all facts for creative effect.
